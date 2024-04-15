@@ -1,0 +1,18 @@
+body{
+    margin: auto;
+    justify-content: center;
+    width: 60%;
+    text-align: center;
+    
+}
+
+h1{
+    color:rgb(12, 177, 113);
+    margin: 6%;
+}
+
+
+
+span{
+    color:red;
+}
